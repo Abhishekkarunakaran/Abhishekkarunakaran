@@ -1,4 +1,4 @@
-<center> <img alt="Illustration" src="images/github.png" width="400px"> </center>
+<img align="center" alt="Illustration" src="images/github.png" width="400px">
 
 ## I'm a 2nd Year CSE Student @ [RIT, Kottayam](http://www.rit.ac.in/).
 
