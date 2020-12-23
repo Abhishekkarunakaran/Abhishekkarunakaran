@@ -1,16 +1,39 @@
-### Hi there 👋
+<center> <img alt="Illustration" src="images/github.png" width="500px"> </center>
 
-<!--
-**Abhishekkarunakaran/Abhishekkarunakaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a 2nd Year CSE Student @ [RIT, Kottayam](http://www.rit.ac.in/).
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on _Flutter_ 
+- 🌱 I’m currently learning _Flutter_ 
+- 😄 Pronouns: He/Him 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Known Programming Languages
+<img alt="Dart" align="center" src="images/dart.png" width='30px' />&nbsp;&nbsp;
+<img alt="C" align="center" src="images/c.png" width='30px' />&nbsp;&nbsp;
+<img alt="Python" align="center" src="images/python.png" width='30px' />&nbsp;&nbsp;
+<img alt="Bash" align="center" src="images/bash.png" width='30px' />
+
+### Known Frameworks
+<img alt="Flutter" align="center" src="images/flutter.png" width='30px' />
+
+### Tools
+<img alt="Photoshop" align="center" src="images/photoshop.png" width='42px' />&nbsp;
+<img alt="Illustrator" align="center" src="images/illustrator.png" width='30px' />&nbsp;&nbsp;
+<img alt="XD" align="center" src="images/xd.svg" width='30px' />&nbsp;&nbsp;
+<img alt="VSCode" align="center" src="images/vscode.png" width='30px' />
+
+### Reach me: 
+[<img alt="Gmail" align="center" src="images/gmail.png" width='60px'>][gmail]
+[<img alt="Whatsapp" align="center" src="images/whatsapp.png" width='55px'>][whatsapp]
+[<img alt="Twitter" align="center" src="images/twitter.png" width='52px'>][twitter]&nbsp;
+[<img alt="LinkedIn" align="center" src="images/linkedin.png" width='35px'>][linkedin]
+
+### My Stats
+
+<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishekkarunakaran&theme=vision-friendly-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+
+
+[whatsapp]: https://wa.me/916238612335/
+[gmail]: abhishekkarunakaran100@gmail.com
+[linkedin]: https://www.linkedin.com/in/abhishek-k-k-a1038b191/
+[twitter]: https://twitter.com/Abhishek__K_K
