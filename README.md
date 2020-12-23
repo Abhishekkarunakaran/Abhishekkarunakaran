@@ -1,7 +1,6 @@
-<center> <img alt="Illustration" src="images/github.png" width="500px"> </center>
+<center> <img alt="Illustration" src="images/github.png" width="400px"> </center>
 
 ## I'm a 2nd Year CSE Student @ [RIT, Kottayam](http://www.rit.ac.in/).
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 - 🔭 I’m currently working on _Flutter_ 
 - 🌱 I’m currently learning _Flutter_ 
@@ -23,15 +22,16 @@
 <img alt="VSCode" align="center" src="images/vscode.png" width='30px' />
 
 ### Reach me: 
-[<img alt="Gmail" align="center" src="images/gmail.png" width='60px'>][gmail]
-[<img alt="Whatsapp" align="center" src="images/whatsapp.png" width='55px'>][whatsapp]
-[<img alt="Twitter" align="center" src="images/twitter.png" width='52px'>][twitter]&nbsp;
-[<img alt="LinkedIn" align="center" src="images/linkedin.png" width='35px'>][linkedin]
+[<img alt="Gmail" align="center" src="images/gmail.png" width='40px'>][gmail]
+[<img alt="Whatsapp" align="center" src="images/whatsapp.png" width='35px'>][whatsapp]
+[<img alt="Twitter" align="center" src="images/twitter.png" width='32px'>][twitter]&nbsp;
+[<img alt="LinkedIn" align="center" src="images/linkedin.png" width='20px'>][linkedin]
 
-### My Stats
-
-<img align="left" alt="Jobin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishekkarunakaran&theme=vision-friendly-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
-
+<details>
+<summary><b>My Github Stats</b></summary>
+<p alig="center">
+<img align="left" alt="Abishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishekkarunakaran&theme=vision-friendly-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+</p></details>
 
 [whatsapp]: https://wa.me/916238612335/
 [gmail]: abhishekkarunakaran100@gmail.com
