@@ -1,5 +1,4 @@
-<img align="center" alt="Illustration" src="images/github.png" width="400px">
-
+Hai there <div class="tenor-gif-embed" data-postid="19369358" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/elsalla-gif-19369358">Elsalla GIF</a> from <a href="https://tenor.com/search/elsalla-gifs">Elsalla GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ## I'm a 2nd Year CSE Student @ [RIT, Kottayam](http://www.rit.ac.in/).
 
 - 🔭 I’m currently working on _Flutter_ 
