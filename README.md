@@ -1,10 +1,6 @@
 ### Hai there <img alt="Waving hand" align="center" src="images/waving.gif" width='30px' />
 ## I'm a 2nd Year CSE Student @ [RIT, Kottayam](http://www.rit.ac.in/).
 
-- 🔭 I’m currently working on _Flutter_ 
-- 🌱 I’m currently learning _Flutter_ 
-- 😄 Pronouns: He/Him 
-
 ### Known Programming Languages
 <img alt="Dart" align="center" src="images/dart.png" width='30px' />&nbsp;&nbsp;
 <img alt="C" align="center" src="images/c.png" width='30px' />&nbsp;&nbsp;
