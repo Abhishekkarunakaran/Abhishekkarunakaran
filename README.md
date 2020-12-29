@@ -1,4 +1,4 @@
-Hai there 
+### Hai there <img alt="Waving hand" align="center" src="images/waving.gif" width='30px' />
 ## I'm a 2nd Year CSE Student @ [RIT, Kottayam](http://www.rit.ac.in/).
 
 - 🔭 I’m currently working on _Flutter_ 
@@ -29,7 +29,7 @@ Hai there
 <details>
 <summary><b>My Github Stats</b></summary>
 <p alig="center">
-<img align="left" alt="Abishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishekkarunakaran&theme=vision-friendly-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
+<img align="left" alt="Abhishek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishekkarunakaran&theme=vision-friendly-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117"/>
 </p></details>
 
 [whatsapp]: https://wa.me/916238612335/
