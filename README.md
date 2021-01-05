@@ -17,7 +17,6 @@
 <img alt="VSCode" align="center" src="images/vscode.png" width='30px' />
 
 ### Reach me: 
-[<img alt="Gmail" align="center" src="images/gmail.png" width='40px'>][gmail]
 [<img alt="Whatsapp" align="center" src="images/whatsapp.png" width='35px'>][whatsapp]
 [<img alt="Twitter" align="center" src="images/twitter.png" width='32px'>][twitter]&nbsp;
 [<img alt="LinkedIn" align="center" src="images/linkedin.png" width='20px'>][linkedin]
@@ -29,6 +28,5 @@
 </p></details>
 
 [whatsapp]: https://wa.me/916238612335/
-[gmail]: abhishekkarunakaran100@gmail.com
 [linkedin]: https://www.linkedin.com/in/abhishek-k-k-a1038b191/
 [twitter]: https://twitter.com/Abhishek__K_K
