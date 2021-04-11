@@ -5,7 +5,7 @@
 <img alt="Dart" align="center" src="images/dart.png" width='30px' />&nbsp;&nbsp;
 <img alt="C" align="center" src="images/c.png" width='30px' />&nbsp;&nbsp;
 <img alt="Python" align="center" src="images/python.png" width='30px' />&nbsp;&nbsp;
-<img alt="Bash" align="center" src="images/bash.png" width='30px' />
+<img alt="Bash" align="center" src="images/bash.png" width='30px' />&nbsp;&nbsp;
 <img alt="Powershell" align="center" src="images/powershell.png" width='30px' />
 
 ### Known Frameworks
