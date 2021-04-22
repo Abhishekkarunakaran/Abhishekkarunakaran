@@ -1,4 +1,7 @@
-### Hai there <img alt="Waving hand" align="center" src="images/waving.gif" width='30px' />
+### Hai there... 
+<!-- <img alt="Waving hand" align="center" src="images/waving.gif" width='30px' /> -->
+<center><img alt="Flat Character" src="images/flat.png" height="350"></center>
+
 ## I'm a 2nd Year CSE Student @ [RIT, Kottayam](http://www.rit.ac.in/).
 
 ### Known Programming Languages
