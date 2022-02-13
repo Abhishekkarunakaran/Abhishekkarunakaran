@@ -2,7 +2,7 @@
 <img alt="Waving hand" align="center" src="images/waving.gif" width='30px' />
 <center><img alt="Flat Character" src="images/illustration.png" height="400"></center>
 
-## 2<sup>nd</sup> Year CSE Undergrad @ [RIT, Kottayam](http://www.rit.ac.in/).
+## 3<sup>rd</sup> Year CSE Undergrad @ [RIT, Kottayam](http://www.rit.ac.in/).
 
 ### Known Programming Languages
 <img alt="Dart" align="center" src="images/dart.png" width='30px' />&nbsp;&nbsp;
