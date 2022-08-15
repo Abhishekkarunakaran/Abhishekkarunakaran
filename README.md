@@ -2,6 +2,8 @@
 <img alt="Waving hand" align="center" src="images/waving.gif" width='30px' />
 <center><img alt="Flat Character" src="images/illustration.png" height="300"></center>
 
+<h1>I'm <span style="color:skyblue"><b>Abhishek K.K</b></span></h1>
+
 ## 3<sup>rd</sup> Year CSE Undergrad @ [RIT, Kottayam](http://www.rit.ac.in/).
 #### I'm a Designer(Graphic,UI/UX) and a Developer(Flutter)
 
@@ -12,6 +14,8 @@
 <img alt="Java" align="center" src="images/java.png" width='30px' />&nbsp;&nbsp;
 <img alt="Bash" align="center" src="images/bash.png" width='30px' />&nbsp;&nbsp;
 <img alt="Powershell" align="center" src="images/powershell.png" width='30px' />
+<img alt="Golang" align="center" src="images/go.png" width='70px' />
+
 
 ### Known Frameworks
 <img alt="Flutter" align="center" src="images/flutter.png" width='30px' />
@@ -20,6 +24,8 @@
 <img alt="Photoshop" align="center" src="images/photoshop.png" width='42px' />&nbsp;
 <img alt="Illustrator" align="center" src="images/illustrator.png" width='30px' />&nbsp;&nbsp;
 <img alt="XD" align="center" src="images/xd.svg" width='30px' />&nbsp;&nbsp;
+<img alt="Figma" align="center" src="images/figma.png" width='20px' />&nbsp;&nbsp;
+
 <img alt="VSCode" align="center" src="images/vscode.png" width='30px' />
 
 ### Reach me: 
