@@ -4,8 +4,8 @@
 
 <h1>I'm <span style="color:skyblue"><b>Abhishek K.K</b></span></h1>
 
-## 3<sup>rd</sup> Year CSE Undergrad @ [RIT, Kottayam](http://www.rit.ac.in/).
-#### I'm a Designer(Graphic,UI/UX) and a Developer(Flutter)
+## Final Year CSE Undergrad @ [RIT, Kottayam](http://www.rit.ac.in/).
+#### I'm a Designer( Graphic, UI/UX ) and a Developer( Flutter, Go )
 
 ### Known Programming Languages
 <img alt="Dart" align="center" src="images/dart.png" width='30px' />&nbsp;&nbsp;
@@ -42,3 +42,4 @@
 [whatsapp]: https://wa.me/916238612335/
 [linkedin]: https://www.linkedin.com/in/abhishek-k-k-a1038b191/
 [twitter]: https://twitter.com/Abhishek__K_K
+
