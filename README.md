@@ -5,7 +5,7 @@
 <h1>I'm <span style="color:skyblue"><b>Abhishek K.K</b></span></h1>
 
 ## Final Year CSE Undergrad @ [RIT, Kottayam](http://www.rit.ac.in/).
-#### I'm a Designer( Graphic, UI/UX ) and a Developer( Flutter, Go )
+#### I'm a <b>Designer</b>( Graphic, UI/UX ) and a <b>Developer</b>( Flutter, Go )
 
 ### Known Programming Languages
 <img alt="Dart" align="center" src="images/dart.png" width='30px' />&nbsp;&nbsp;
