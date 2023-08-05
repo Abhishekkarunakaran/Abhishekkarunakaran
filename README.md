@@ -1,6 +1,6 @@
 ### Hai there... 
 <img alt="Waving hand" align="center" src="images/waving.gif" width='30px' />
-<center><img alt="Flat Character" src="images/illustration.png" height="300"></center>
+<center><img alt="Flat Character" src="images/illustration.png" height="150"></center>
 
 <h1>I'm <span style="color:skyblue"><b>Abhishek K.K</b></span></h1>
 
