@@ -8,7 +8,7 @@
 
 ### Current Status: 
 - 🌱 I'm currently learning <strong> Rust Programming Language </strong>
-- 😮 Fascinated by <strong> Linux </strong> & <strong> Computer Networks </strong>
+- 😮 Fascinated by <strong>Linux</strong> & <strong>Microcontrollers</strong>
 
 
 ### Known Programming Languages
