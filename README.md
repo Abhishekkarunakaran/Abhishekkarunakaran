@@ -1,11 +1,15 @@
 ### Hai there... 
 <img alt="Waving hand" align="center" src="images/waving.gif" width='30px' />
-<center><img alt="Flat Character" src="images/illustration.png" height="150"></center>
 
 <h1>I'm <span style="color:skyblue"><b>Abhishek K.K</b></span></h1>
 
 ## B.Tech CSE Graduate from [RIT, Kottayam](http://www.rit.ac.in/).
 #### I'm a <b>Designer</b>( Graphic, UI/UX ) and a <b>Developer</b>( Flutter, Go )
+
+### Current Status: 
+- 🌱 I'm currently learning <strong> Rust Programming Language </strong>
+- 😮 Fascinated by <strong> Linux </strong> & <strong> Computer Networks </strong>
+
 
 ### Known Programming Languages
 <img alt="Dart" align="center" src="images/dart.png" width='30px' />&nbsp;&nbsp;
