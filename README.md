@@ -3,12 +3,11 @@
 
 <h1>I'm <span style="color:skyblue"><b>Abhishek K.K</b></span></h1>
 
-## B.Tech CSE Graduate from [RIT, Kottayam](http://www.rit.ac.in/).
-#### I'm a <b>Designer</b>( Graphic, UI/UX ) and a <b>Developer</b>( Flutter, Go )
+## Product Engineer @[Litmus7](https://www.litmus7.com/).
 
 ### Current Status: 
-- 🌱 I'm currently learning <strong> Rust Programming Language </strong>
-- 😮 Fascinated by <strong>Linux</strong> & <strong>Microcontrollers</strong>
+- 🌱 Currently working with <strong> Microservices with Golang </strong>
+- 😮 Fascinated by <strong>Linux</strong> & <strong>Self-hosting</strong>
 
 
 ### Known Programming Languages
@@ -35,7 +34,8 @@
 ### Reach me: 
 [<img alt="Whatsapp" align="center" src="images/whatsapp.png" width='35px'>][whatsapp]
 [<img alt="Twitter" align="center" src="images/twitter.png" width='32px'>][twitter]&nbsp;
-[<img alt="LinkedIn" align="center" src="images/linkedin.png" width='20px'>][linkedin]
+[<img alt="LinkedIn" align="center" src="images/linkedin.png" width='20px'>][linkedin]&nbsp;
+[<img alt="Portfolio" align="center" src="images/user.png" width='24px'>][portfolio]
 
 <details>
 <summary><b>My Github Stats</b></summary>
@@ -46,4 +46,5 @@
 [whatsapp]: https://wa.me/916238612335/
 [linkedin]: https://www.linkedin.com/in/abhishek-k-k-a1038b191/
 [twitter]: https://twitter.com/Abhishek__K_K
+[portfolio]: https://me.abhishekkarunakaran.online
 
